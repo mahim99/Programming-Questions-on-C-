@@ -11,4 +11,10 @@ The program requirements are as follows:\
 
 # Basic Questions:
 Q1: Find the largest of the given four numbers, take input from user.\
-Q2: Sum of n integers, starting from 0, take input from user.
+Q2: Sum of n integers, starting from 0, take input from user.\
+Q3: Write a code for user with the following requirements:\
+•	The user can go out only on odd days in a month(0-30).\
+•	If the pocketmoney of user is over, user cannot go out.\
+•	Take pocketmoney input from user.
+•	Print the dates on which the user can go out and the count of those days.
+•	Print the dates on which the user can go out, given they go out on every possible date(consecutively), also print they count of days and the date form which they cannot go out.
