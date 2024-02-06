@@ -10,4 +10,5 @@ The program requirements are as follows:\
 •	Ensure that your program handles both integer and floating-point input values for the radius and precision.
 
 # Basic Questions:
-Q1: Find the largest of the given four numbers, take input from user.
+Q1: Find the largest of the given four numbers, take input from user.\
+Q2: Sum of n integers, starting from 0, take input from user.
