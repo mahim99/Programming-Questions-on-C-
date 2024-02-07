@@ -17,4 +17,5 @@ Q3: Write a code for user with the following requirements:\
 •	If the pocketmoney of user is over, user cannot go out.\
 •	Take pocketmoney input from user.\
 •	Print the dates on which the user can go out and the count of those days.\
-•	Print the dates on which the user can go out, given they go out on every possible date(consecutively), also print they count of days and the date form which they cannot go out.
+•	Print the dates on which the user can go out, given they go out on every possible date(consecutively), also print they count of days and the date form which they cannot go out.\
+Q4: Print all numbers between 1 and 100 which are not divisible by 3.\
