@@ -20,4 +20,5 @@ Q3: Write a code for user with the following requirements:\
 •	Print the dates on which the user can go out, given they go out on every possible date(consecutively), also print they count of days and the date form which they cannot go out.\
 Q4: Print all numbers between 1 and 100 which are not divisible by 3.\
 Q5: Check if the given number is prime or not.\
-Q6: Print all prime numbers between two given numbers.
+Q6: Print all prime numbers between two given numbers.\
+Q7: Implement a basic calculator which can take two numebrs as input from user and perform the basic operations (+, -, *, /).
