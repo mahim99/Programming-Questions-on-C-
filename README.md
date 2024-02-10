@@ -23,4 +23,5 @@ Q5: Check if the given number is prime or not.\
 Q6: Print all prime numbers between two given numbers.\
 Q7: Implement a basic calculator which can take two numebrs as input from user and perform the basic operations (+, -, *, /).\
 Q8: Write a program to output whether a number is divisible by 2 and 3 or divisible by any one of them.\
-Q9: Print a rectangle pattern using asterisks, take input for rows and columns from user.
+Q9: Print a rectangle pattern using asterisks, take input for rows and columns from user.\
+Q10: Print a hollow rectangle, take input for rows and columns from user.
