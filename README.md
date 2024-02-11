@@ -26,4 +26,5 @@ Q8: Write a program to output whether a number is divisible by 2 and 3 or divisi
 Q9: Print a rectangle pattern using asterisks, take input for rows and columns from user.\
 Q10: Print a hollow rectangle, take input for rows and columns from user.\
 Q11: Print an inverted half pyramid, left inclined, take input n from user.\
-Q12: Print a Half pyramid after 180 degree rotation, take input n from user.
+Q12: Print a Half pyramid after 180 degree rotation, take input n from user.\
+Q13: Print a Half pyramid using numbers, take input n from user.
