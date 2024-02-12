@@ -22,9 +22,11 @@ Q4: Print all numbers between 1 and 100 which are not divisible by 3.\
 Q5: Check if the given number is prime or not.\
 Q6: Print all prime numbers between two given numbers.\
 Q7: Implement a basic calculator which can take two numebrs as input from user and perform the basic operations (+, -, *, /).\
-Q8: Write a program to output whether a number is divisible by 2 and 3 or divisible by any one of them.\
-Q9: Print a rectangle pattern using asterisks, take input for rows and columns from user.\
-Q10: Print a hollow rectangle, take input for rows and columns from user.\
-Q11: Print an inverted half pyramid, left inclined, take input n from user.\
-Q12: Print a Half pyramid after 180 degree rotation, take input n from user.\
-Q13: Print a Half pyramid using numbers, take input n from user.
+Q8: Write a program to output whether a number is divisible by 2 and 3 or divisible by any one of them.
+
+# Pattern Questions
+Q1: Print a rectangle pattern using asterisks, take input for rows and columns from user.\
+Q2: Print a hollow rectangle, take input for rows and columns from user.\
+Q3: Print an inverted half pyramid, left inclined, take input n from user.\
+Q4: Print a Half pyramid after 180 degree rotation, take input n from user.\
+Q5: Print a Half pyramid using numbers, take input n from user.
