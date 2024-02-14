@@ -32,4 +32,5 @@ Q4: Print a Half pyramid after 180 degree rotation, take input n from user.\
 Q5: Print a Half pyramid using numbers, take input n from user.\
 Q6: Print Floyds triangle, take input n from user.\
 Q7: Print Butterfly pattern, take input n from user.\
-Q8: Print an inverted number pattern, take input n from user.
+Q8: Print an inverted number pattern, take input n from user.\
+Q9: Print 0-1 Half pyramid pattern, take input n from user.
