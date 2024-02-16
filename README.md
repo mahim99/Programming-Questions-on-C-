@@ -34,4 +34,5 @@ Q6: Print Floyds triangle, take input n from user.\
 Q7: Print Butterfly pattern, take input n from user.\
 Q8: Print an inverted number pattern, take input n from user.\
 Q9: Print 0-1 Half pyramid pattern, take input n from user.\
-Q10: Print Rhombus pattern, take input n from user.
+Q10: Print Rhombus pattern, take input n from user.\
+Q11: Print pyramid of number pattern, take input n from user.
