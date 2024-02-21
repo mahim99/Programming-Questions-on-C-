@@ -24,7 +24,8 @@ Q6: Print all prime numbers between two given numbers.\
 Q7: Implement a basic calculator which can take two numebrs as input from user and perform the basic operations (+, -, *, /).\
 Q8: Write a program to output whether a number is divisible by 2 and 3 or divisible by any one of them.\
 Q9: Write a program to reverse a given number.\
-Q10: Write a program to check if a given numeber is an Armstrong number or not.
+Q10: Write a program to check if a given numeber is an Armstrong number or not.\
+Q11:  Write a program to find the factorial of a given number.
 
 # Pattern Questions
 Q1: Print a rectangle pattern using asterisks, take input for rows and columns from user.\
