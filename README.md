@@ -26,7 +26,8 @@ Q8: Write a program to output whether a number is divisible by 2 and 3 or divisi
 Q9: Write a program to reverse a given number.\
 Q10: Write a program to check if a given numeber is an Armstrong number or not.\
 Q11: Write a program to find the factorial of a given number.\
-Q12: Write a program to find the binary coefficient (nCr). Make a factorial function and then call it in the main function.
+Q12: Write a program to find the binary coefficient (nCr). Make a factorial function and then call it in the main function.\
+Q13: Write a program to print fibonacci series.
 
 # Pattern Questions
 Q1: Print a rectangle pattern using asterisks, take input for rows and columns from user.\
