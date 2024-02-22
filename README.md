@@ -25,7 +25,8 @@ Q7: Implement a basic calculator which can take two numebrs as input from user a
 Q8: Write a program to output whether a number is divisible by 2 and 3 or divisible by any one of them.\
 Q9: Write a program to reverse a given number.\
 Q10: Write a program to check if a given numeber is an Armstrong number or not.\
-Q11:  Write a program to find the factorial of a given number.
+Q11: Write a program to find the factorial of a given number.\
+Q12: Write a program to find the binary coefficient (nCr). Make a factorial function and then call it in the main function.
 
 # Pattern Questions
 Q1: Print a rectangle pattern using asterisks, take input for rows and columns from user.\
