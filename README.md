@@ -43,4 +43,5 @@ Q10: Print Rhombus pattern, take input n from user.\
 Q11: Print pyramid of number pattern, take input n from user.\
 Q12: Print palindromic pattern of numbers, take input n from user.\
 Q13: Print star pattern, take input n from user.\
-Q14: Print zig-zag patter of asterisks, where number of rows are always 3, for number of asterisks - take input from user.
+Q14: Print zig-zag patter of asterisks, where number of rows are always 3, for number of asterisks - take input from user.\
+Q15: Print Pascal Triangle, take input n from user.
