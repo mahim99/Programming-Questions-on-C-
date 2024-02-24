@@ -28,7 +28,7 @@ Q10: Write a program to check if a given numeber is an Armstrong number or not.\
 Q11: Write a program to find the factorial of a given number.\
 Q12: Write a program to find the binary coefficient (nCr). Make a factorial function and then call it in the main function.\
 Q13: Write a program to print fibonacci series.\
-Q14: Write a program to check if the entered triplet is a pythagorean triplet or not.
+Q14: Write a program to check if the given triplet is a pythagorean triplet or not.
 
 # Pattern Questions
 Q1: Print a rectangle pattern using asterisks, take input for rows and columns from user.\
