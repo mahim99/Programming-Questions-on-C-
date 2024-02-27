@@ -2,8 +2,9 @@
 
 # Array Questions:
 Q1: Write a program to find the maximum and minimum element in an user given array.\
-Q2: Write a function to perform Linear Search on an array and return the index of the key to be found.\
-Q3: Write a function to perform Binary Search on an array and return the index of the key to be found.
+Q2: Write a program to perform Linear Search on an array and return the index of the key to be found.\
+Q3: Write a program to perform Binary Search on an array and return the index of the key to be found.\
+Q4: Write a program to sort the given array using Bubble Sort.
 
 # Basic Questions:
 Q1: Find the largest of the given four numbers, take input from user.\
