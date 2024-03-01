@@ -7,7 +7,8 @@ Q3: Write a program to perform Binary Search on an array and return the index of
 Q4: Write a program to sort the given array using Bubble Sort.\
 Q5: Write a program to sort the given array using Insertion Sort.\
 Q6: Write a program to sort the given array using Selection Sort.\
-Q7: Write a program to find the Prefix Maximum (Maximum till i) of the given array.
+Q7: Write a program to find the Prefix Maximum (Maximum till i) of the given array.\
+Q8: Write a program to find the sum of all the subarrays of a given array.
 
 # Basic Questions:
 Q1: Find the largest of the given four numbers, take input from user.\
