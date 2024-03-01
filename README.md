@@ -6,7 +6,8 @@ Q2: Write a program to perform Linear Search on an array and return the index of
 Q3: Write a program to perform Binary Search on an array and return the index of the key to be found.\
 Q4: Write a program to sort the given array using Bubble Sort.\
 Q5: Write a program to sort the given array using Insertion Sort.\
-Q6: Write a program to sort the given array using Selection Sort.
+Q6: Write a program to sort the given array using Selection Sort.\
+Q7: Write a program to find the Prefix Maximum (Maximum till i) of the given array.
 
 # Basic Questions:
 Q1: Find the largest of the given four numbers, take input from user.\
