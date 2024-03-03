@@ -73,5 +73,4 @@ Test Set 1\
 2 <= N <= 2000.\
 Test Set 2\
 2 <= N <= 2×10^5 for at most 10 test cases.\
-For the remaining cases, 2 <= N <= 2000.\
-	
+For the remaining cases, 2 <= N <= 2000.
