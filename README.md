@@ -91,4 +91,4 @@ Test Set 1\
 1 <= N <= 1000.\
 Test Set 2\
 1 <= N <= 2×10^5 for at most 10 test cases.\
-For the remaining cases, 1 <= N <= 1000.
+For the remaining cases: 1 <= N <= 1000.
