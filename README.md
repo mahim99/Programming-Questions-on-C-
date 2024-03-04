@@ -75,13 +75,13 @@ Test Set 2\
 2 <= N <= 2×10^5 for at most 10 test cases.\
 For the remaining cases, 2 <= N <= 2000.
 
-Q3:Isyana is given the number of visitors at her local theme park on N consecutive days. The number of visitors on the i-th day is Vi. A day is record breaking if it satisfies both the following conditions:
-• The number of visitors on the day is strictly larger than that of the previous days.
-• Either it is the last day, or the number of visitors on that day is strictly larger than the number of visitors on the following day.
+Q3: Isyana is given the number of visitors at her local theme park on N consecutive days. The number of visitors on the i-th day is Vi. A day is record breaking if it satisfies both the following conditions:\
+• The number of visitors on the day is strictly larger than that of the previous days.\
+• Either it is the last day, or the number of visitors on that day is strictly larger than the number of visitors on the following day.\
 Note that the very first day could be a record breaking day!\
 Please help Isvana find out the number of record breaking days.\
-Input: The first line of the input gives the number of test cases, T. T test cases follow. Each test case begins with a line containing the integer N. The second line contains N integers. The i-th integer is Vi.
-Output: For each test case, output one line containing Case #x: y, where x is the test case number (starting from 1) and y is the number of record breaking days.	
+Input: The first line of the input gives the number of test cases, T. T test cases follow. Each test case begins with a line containing the integer N. The second line contains N integers. The i-th integer is Vi.\
+Output: For each test case, output one line containing Case #x: y, where x is the test case number (starting from 1) and y is the number of record breaking days.\
 Constraints:\
 Time limit: 20 seconds per test set.\
 Memory limit: 1GB.\
