@@ -8,7 +8,17 @@ Q4: Write a program to sort the given array using Bubble Sort.\
 Q5: Write a program to sort the given array using Insertion Sort.\
 Q6: Write a program to sort the given array using Selection Sort.\
 Q7: Write a program to find the Prefix Maximum (Maximum till i) of the given array.\
-Q8: Write a program to find the sum of all the subarrays of a given array.
+Q8: Write a program to find the sum of all the subarrays of a given array.\
+Q9: Given an array arr[] of size N. The task is to find the first repeating element in the array of integers, i.e., an element that occurs more than once and whose index of first occurrence is smallest.\
+Constraints:\
+1 <= N <= 10^6\
+0 <= Ai <= 10^6\
+Example:\
+Input:\
+7\
+1 5 3 4 3 5 6\
+Output:\
+2 \
 
 # Basic Questions:
 Q1: Find the largest of the given four numbers, take input from user.\
