@@ -18,7 +18,7 @@ Input:\
 7\
 1 5 3 4 3 5 6\
 Output:\
-2 \
+2
 
 # Basic Questions:
 Q1: Find the largest of the given four numbers, take input from user.\
