@@ -20,6 +20,17 @@ Input:\
 Output:\
 2
 
+Q10: Problem: Given an unsorted array A of size N of non -ve integers, find a continous subarray which adds to a given number S.\
+Constraints:\
+1 <= N <= 10^5\
+0 <= Ai <= 10^10\
+Example:\
+Input:\
+N = 5, S = 12\
+A[] = {1, 2, 3, 7, 5}\
+Output:\
+2 4
+
 # Basic Questions:
 Q1: Find the largest of the given four numbers, take input from user.\
 Q2: Sum of n integers, starting from 0, take input from user.\
